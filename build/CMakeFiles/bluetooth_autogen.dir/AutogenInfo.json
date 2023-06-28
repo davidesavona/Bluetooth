@@ -1,0 +1,125 @@
+{
+	"BUILD_DIR" : "/home/pi/Desktop/Bluetooth/build/bluetooth_autogen",
+	"CMAKE_BINARY_DIR" : "/home/pi/Desktop/Bluetooth/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/pi/Desktop/Bluetooth/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/pi/Desktop/Bluetooth",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/home/pi/Desktop/Bluetooth/CMakeLists.txt",
+		"/home/pi/Desktop/Bluetooth/build/CMakeFiles/3.18.4/CMakeSystem.cmake",
+		"/usr/share/cmake-3.18/Modules/CMakeSystemSpecificInitialize.cmake",
+		"/home/pi/Desktop/Bluetooth/build/CMakeFiles/3.18.4/CMakeCCompiler.cmake",
+		"/home/pi/Desktop/Bluetooth/build/CMakeFiles/3.18.4/CMakeCXXCompiler.cmake",
+		"/usr/share/cmake-3.18/Modules/CMakeSystemSpecificInformation.cmake",
+		"/usr/share/cmake-3.18/Modules/CMakeGenericSystem.cmake",
+		"/usr/share/cmake-3.18/Modules/CMakeInitializeConfigs.cmake",
+		"/usr/share/cmake-3.18/Modules/Platform/Linux.cmake",
+		"/usr/share/cmake-3.18/Modules/Platform/UnixPaths.cmake",
+		"/usr/share/cmake-3.18/Modules/CMakeCInformation.cmake",
+		"/usr/share/cmake-3.18/Modules/CMakeLanguageInformation.cmake",
+		"/usr/share/cmake-3.18/Modules/Compiler/GNU-C.cmake",
+		"/usr/share/cmake-3.18/Modules/Compiler/GNU.cmake",
+		"/usr/share/cmake-3.18/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
+		"/usr/share/cmake-3.18/Modules/Internal/CMakeCheckCompilerFlag.cmake",
+		"/usr/share/cmake-3.18/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake",
+		"/usr/share/cmake-3.18/Modules/Platform/Linux-GNU-C.cmake",
+		"/usr/share/cmake-3.18/Modules/Platform/Linux-GNU.cmake",
+		"/usr/share/cmake-3.18/Modules/CMakeCommonLanguageInclude.cmake",
+		"/usr/share/cmake-3.18/Modules/CMakeCXXInformation.cmake",
+		"/usr/share/cmake-3.18/Modules/CMakeLanguageInformation.cmake",
+		"/usr/share/cmake-3.18/Modules/Compiler/GNU-CXX.cmake",
+		"/usr/share/cmake-3.18/Modules/Compiler/GNU.cmake",
+		"/usr/share/cmake-3.18/Modules/Platform/Linux-GNU-CXX.cmake",
+		"/usr/share/cmake-3.18/Modules/Platform/Linux-GNU.cmake",
+		"/usr/share/cmake-3.18/Modules/CMakeCommonLanguageInclude.cmake",
+		"/usr/share/cmake-3.18/Modules/CTest.cmake",
+		"/usr/share/cmake-3.18/Modules/CTestUseLaunchers.cmake",
+		"/usr/share/cmake-3.18/Modules/CTestTargets.cmake",
+		"/usr/share/cmake-3.18/Modules/DartConfiguration.tcl.in",
+		"/usr/lib/arm-linux-gnueabihf/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"/usr/lib/arm-linux-gnueabihf/cmake/Qt5/Qt5Config.cmake",
+		"/usr/lib/arm-linux-gnueabihf/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"/usr/lib/arm-linux-gnueabihf/cmake/Qt5/Qt5Config.cmake",
+		"/usr/lib/arm-linux-gnueabihf/cmake/Qt5/Qt5ModuleLocation.cmake",
+		"/usr/lib/arm-linux-gnueabihf/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"/usr/lib/arm-linux-gnueabihf/cmake/Qt5Core/Qt5CoreConfig.cmake",
+		"/usr/lib/arm-linux-gnueabihf/cmake/Qt5Core/Qt5CoreConfigExtras.cmake",
+		"/usr/lib/arm-linux-gnueabihf/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake",
+		"/usr/lib/arm-linux-gnueabihf/cmake/Qt5Core/Qt5CoreMacros.cmake",
+		"/usr/share/cmake-3.18/Modules/CMakeParseArguments.cmake",
+		"/usr/lib/arm-linux-gnueabihf/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"/usr/lib/arm-linux-gnueabihf/cmake/Qt5/Qt5Config.cmake",
+		"/usr/lib/arm-linux-gnueabihf/cmake/Qt5/Qt5ModuleLocation.cmake",
+		"/usr/lib/arm-linux-gnueabihf/cmake/Qt5Bluetooth/Qt5BluetoothConfigVersion.cmake",
+		"/usr/lib/arm-linux-gnueabihf/cmake/Qt5Bluetooth/Qt5BluetoothConfig.cmake",
+		"/usr/share/cmake-3.18/Modules/CPack.cmake",
+		"/usr/share/cmake-3.18/Modules/CPackComponent.cmake",
+		"/usr/share/cmake-3.18/Templates/CPackConfig.cmake.in",
+		"/usr/share/cmake-3.18/Templates/CPackConfig.cmake.in"
+	],
+	"CMAKE_SOURCE_DIR" : "/home/pi/Desktop/Bluetooth",
+	"DEP_FILE" : "/home/pi/Desktop/Bluetooth/build/bluetooth_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "bluetooth_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"/home/pi/Desktop/Bluetooth/concurrentbtle.h",
+			"Mu",
+			"EWIEGA46WW/moc_concurrentbtle.cpp"
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/pi/Desktop/Bluetooth/build/bluetooth_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/pi/Desktop/Bluetooth/build/bluetooth_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "QT_BLUETOOTH_LIB", "QT_CORE_LIB" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/usr/include/arm-linux-gnueabihf/qt5",
+		"/usr/include/arm-linux-gnueabihf/qt5/QtCore",
+		"/usr/lib/arm-linux-gnueabihf/qt5/mkspecs/linux-g++",
+		"/usr/include/arm-linux-gnueabihf/qt5/QtBluetooth",
+		"/usr/include/c++/10",
+		"/usr/include/arm-linux-gnueabihf/c++/10",
+		"/usr/include/c++/10/backward",
+		"/usr/lib/gcc/arm-linux-gnueabihf/10/include",
+		"/usr/local/include",
+		"/usr/include/arm-linux-gnueabihf",
+		"/usr/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/arm-linux-gnueabihf-g++",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/share/cmake-3.18/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/pi/Desktop/Bluetooth/build/bluetooth_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 1,
+	"PARSE_CACHE_FILE" : "/home/pi/Desktop/Bluetooth/build/CMakeFiles/bluetooth_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/lib/qt5/bin/moc",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "/home/pi/Desktop/Bluetooth/build/CMakeFiles/bluetooth_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[ "/home/pi/Desktop/Bluetooth/concurrentbtle.cpp", "Mu" ],
+		[ "/home/pi/Desktop/Bluetooth/main.cpp", "Mu" ]
+	],
+	"VERBOSITY" : 0
+}

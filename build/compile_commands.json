@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/pi/Desktop/Bluetooth/build",
+  "command": "/usr/bin/arm-linux-gnueabihf-g++ -DQT_BLUETOOTH_LIB -DQT_CORE_LIB -Ibluetooth_autogen/include -isystem /usr/include/arm-linux-gnueabihf/qt5 -isystem /usr/include/arm-linux-gnueabihf/qt5/QtCore -isystem /usr/lib/arm-linux-gnueabihf/qt5/mkspecs/linux-g++ -isystem /usr/include/arm-linux-gnueabihf/qt5/QtBluetooth -g -fPIC -o CMakeFiles/bluetooth.dir/bluetooth_autogen/mocs_compilation.cpp.o -c /home/pi/Desktop/Bluetooth/build/bluetooth_autogen/mocs_compilation.cpp",
+  "file": "/home/pi/Desktop/Bluetooth/build/bluetooth_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/pi/Desktop/Bluetooth/build",
+  "command": "/usr/bin/arm-linux-gnueabihf-g++ -DQT_BLUETOOTH_LIB -DQT_CORE_LIB -Ibluetooth_autogen/include -isystem /usr/include/arm-linux-gnueabihf/qt5 -isystem /usr/include/arm-linux-gnueabihf/qt5/QtCore -isystem /usr/lib/arm-linux-gnueabihf/qt5/mkspecs/linux-g++ -isystem /usr/include/arm-linux-gnueabihf/qt5/QtBluetooth -g -fPIC -o CMakeFiles/bluetooth.dir/main.cpp.o -c /home/pi/Desktop/Bluetooth/main.cpp",
+  "file": "/home/pi/Desktop/Bluetooth/main.cpp"
+},
+{
+  "directory": "/home/pi/Desktop/Bluetooth/build",
+  "command": "/usr/bin/arm-linux-gnueabihf-g++ -DQT_BLUETOOTH_LIB -DQT_CORE_LIB -Ibluetooth_autogen/include -isystem /usr/include/arm-linux-gnueabihf/qt5 -isystem /usr/include/arm-linux-gnueabihf/qt5/QtCore -isystem /usr/lib/arm-linux-gnueabihf/qt5/mkspecs/linux-g++ -isystem /usr/include/arm-linux-gnueabihf/qt5/QtBluetooth -g -fPIC -o CMakeFiles/bluetooth.dir/concurrentbtle.cpp.o -c /home/pi/Desktop/Bluetooth/concurrentbtle.cpp",
+  "file": "/home/pi/Desktop/Bluetooth/concurrentbtle.cpp"
+}
+]

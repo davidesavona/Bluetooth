@@ -1,0 +1,7 @@
+# ninja log v5
+622	9677	1687969311771999686	CMakeFiles/bluetooth.dir/main.cpp.o	902cc9d5b37a80f9
+8591	9281	1687991130367997550	bluetooth	906840ffd68fb8a2
+3	755	1687992332191996834	build.ninja	350e2dbf8e750bfa
+8	8591	1687991129679997551	CMakeFiles/bluetooth.dir/concurrentbtle.cpp.o	1183c5b318cc54f2
+9	86	1687969825723999379	bluetooth_autogen/timestamp	b1c48867bbe0a46
+86	4725	1687969830359999376	CMakeFiles/bluetooth.dir/bluetooth_autogen/mocs_compilation.cpp.o	8977f7a4a4188db1
